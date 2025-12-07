@@ -20,6 +20,8 @@ These three words are joined together to generate a creative and random business
 
 ![Business Name Generator Preview](https://github.com/user-attachments/assets/d22299df-1064-46e1-ae3a-856780cb5075)
 
+---
+
 ## 🖋 Sample Output
 
 ```
