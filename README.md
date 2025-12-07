@@ -1,2 +1,38 @@
-# Business-Name-Generator
-This mini project is a Business Name Generator made using Vanilla JavaScript. It works by randomly selecting words from predefined lists and combining them into a unique business name every time the program is executed. It showcases the use of functions, Math.random(), and conditional logic in JavaScript.
+# 💡 Business Name Generator
+
+This mini project is a Business Name Generator built with Vanilla JavaScript that randomly combines predefined words to create a unique business name each time it runs.
+
+---
+
+## ⚙️ How It Works
+
+The program selects:
+
+* One word from a **prefix list** (Crazy, Amazing, Fire)
+* One word from an **industry list** (Engine, Foods, Garments)
+* One word from a **suffix list** (Bros, Limited, Hub)
+
+These three words are joined together to generate a creative and random business name every time the program is executed.
+
+---
+
+## 🖋 Sample Output
+
+```
+Business Name Generator Project
+Your business name is Fire Foods Limited
+```
+
+Since the words are selected randomly, the output will change each time the program runs.
+
+---
+
+## 🛠️ Technologies Used
+
+* JavaScript (Vanilla JS)
+
+---
+
+## 🎯 Conclusion
+
+This project is a great practice exercise to understand the basics of JavaScript such as functions, conditional logic, and random value generation. It also helps in developing problem-solving skills while keeping the project simple and fun.
