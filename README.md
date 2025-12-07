@@ -16,6 +16,10 @@ These three words are joined together to generate a creative and random business
 
 ---
 
+## 🔍 Preview
+
+![Business Name Generator Preview](PASTE_IMAGE_LINK_HERE)
+
 ## 🖋 Sample Output
 
 ```
